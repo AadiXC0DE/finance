@@ -1,0 +1,14 @@
+.logo_main {
+  background-color: rgb(253, 253, 253);
+  margin-left: 20px;
+  border-radius: 5px;
+}
+.logo {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 15px;
+  display: block;
+  width: 150px;
+}
